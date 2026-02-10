@@ -20,6 +20,11 @@ public class ShitShooter : Bot
     // Called when a new round is started -> initialize and do some movement
     public override void Run()
     {
+        //body color
+        BodyColor = Color.Brown;
+        TurretColor = Color.Brown;
+        RadarColor = Color.Brown;
+        ScanColor = Color.Brown;
         // Repeat while the bot is running
         while (IsRunning)
         {
