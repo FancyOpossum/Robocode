@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11304.174 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShitShooter", "ShitShooter.csproj", "{AF271C91-0E34-BC3F-0F5C-5A2F6E786F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF271C91-0E34-BC3F-0F5C-5A2F6E786F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF271C91-0E34-BC3F-0F5C-5A2F6E786F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF271C91-0E34-BC3F-0F5C-5A2F6E786F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF271C91-0E34-BC3F-0F5C-5A2F6E786F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CCA98E-1AE1-43C3-BCBA-E99D0E1571BA}
+	EndGlobalSection
+EndGlobal
